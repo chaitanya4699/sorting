@@ -70,6 +70,7 @@ class NewSort
 			// Merge the sorted halves
 			merge(arr, l, m, r);
 		}
+		
 	}
 
 	/* A utility function to print array of size n */
